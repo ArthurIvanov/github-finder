@@ -2,4 +2,4 @@
 
 ## Implementation of context API for state managmenent.
 
-### link to he app -> https://github-finder-cra.netlify.app/
+### link to the app -> https://github-finder-cra.netlify.app/
